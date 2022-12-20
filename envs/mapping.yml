@@ -6,3 +6,4 @@ dependencies:
   - bwa
   - numpy
   - samtools
+  - rust-bio-tools
