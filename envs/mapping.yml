@@ -1,0 +1,8 @@
+name: mapping
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - bwa
+  - numpy
+  - samtools
