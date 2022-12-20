@@ -1,0 +1,12 @@
+name: sunbeam-light
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - snakemake
+  - singularity
+  - ruamel.yaml
+  - semantic_version
+  - python=3.10
+  - biopython
+  - trimmomatic
